@@ -1,7 +1,9 @@
 
-# DL-fromScratch 1
+# DL-fromScratch 2
 
-![enter image description here](http://image.yes24.com/goods/72173703/XL)
+
+![enter image description here](https://image.yes24.com/goods/72173703/XL.png)
+
 
 **밑바닥부터 시작해보는 딥러닝 2 : 파이썬으로 직접 구현하며 배우는 순환 신경망과 자연어 처리
 
